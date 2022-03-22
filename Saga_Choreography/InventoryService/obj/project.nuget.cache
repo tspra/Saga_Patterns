@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "UsVIptutF+uS1IfcLc5q2Z4iiY04CpChVceHDHFATVy+GOQhVKatMxiokPol63rgUqM2qt/L9hO0lxVidnrPpg==",
+  "success": true,
+  "projectFilePath": "D:\\Projects\\Symplr\\Use Cases\\Saga\\Saga_Choreography\\InventoryService\\InventoryService.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\1034807\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\1034807\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
+    "C:\\Users\\1034807\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\1034807\\.nuget\\packages\\plain.rabbitmq\\0.0.0.4\\plain.rabbitmq.0.0.0.4.nupkg.sha512",
+    "C:\\Users\\1034807\\.nuget\\packages\\rabbitmq.client\\6.2.1\\rabbitmq.client.6.2.1.nupkg.sha512",
+    "C:\\Users\\1034807\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\1034807\\.nuget\\packages\\system.runtime\\4.3.0\\system.runtime.4.3.0.nupkg.sha512",
+    "C:\\Users\\1034807\\.nuget\\packages\\system.threading.channels\\4.7.1\\system.threading.channels.4.7.1.nupkg.sha512",
+    "C:\\Users\\1034807\\.nuget\\packages\\system.threading.tasks\\4.3.0\\system.threading.tasks.4.3.0.nupkg.sha512"
+  ],
+  "logs": []
+}
